@@ -7,6 +7,7 @@ Copyright (c) 2016 Blizzard Entertainment.
 
 [![Build Status](https://travis-ci.org/Blizzard/node-rdkafka.svg?branch=master)](https://travis-ci.org/Blizzard/node-rdkafka)
 [![npm version](https://badge.fury.io/js/node-rdkafka.svg)](https://badge.fury.io/js/node-rdkafka)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLiquidInCa%2Fnode-rdkafka.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLiquidInCa%2Fnode-rdkafka?ref=badge_shield)
 
 # Overview
 
@@ -553,3 +554,7 @@ producer.getMetadata(opts, function(err, metadata) {
   }
 });
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLiquidInCa%2Fnode-rdkafka.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLiquidInCa%2Fnode-rdkafka?ref=badge_large)
